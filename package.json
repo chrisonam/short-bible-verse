@@ -1,0 +1,25 @@
+{
+  "name": "short-bible-verse",
+  "version": "1.0.0",
+  "description": "shortest Holy Bible verses ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisonam/short-bible-verse.git"
+  },
+  "keywords": [
+    "Bible",
+    "Verses",
+    "Jesus",
+    "Holy"
+  ],
+  "author": "Christian Onambe I.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chrisonam/short-bible-verse/issues"
+  },
+  "homepage": "https://github.com/chrisonam/short-bible-verse#readme"
+}
