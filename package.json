@@ -1,6 +1,6 @@
 {
   "name": "short-bible-verse",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "shortest Holy Bible verses ",
   "main": "index.js",
   "scripts": {
